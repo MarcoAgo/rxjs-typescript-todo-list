@@ -31,6 +31,6 @@ const ListItem = (props: propTypes) => {
 			{item.value}
 		</label>
 	)
-}
+} 
 
 export default ListItem
